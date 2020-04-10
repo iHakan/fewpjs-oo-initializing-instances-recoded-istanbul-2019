@@ -7,3 +7,10 @@ class Breakfast{
 }
 
 let bfast = new Breakfast("eggs", "juice");
+
+class Lunch{
+  constructor(){
+    this
+    this
+  }
+}
