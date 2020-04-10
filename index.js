@@ -16,4 +16,4 @@ class Lunch{
   }
 }
 
-let newLunch = new Lunch('side salad',)
+let newLunch = new Lunch('side salad','broccoli cheddar soup,)
