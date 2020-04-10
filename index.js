@@ -27,6 +27,6 @@ class Dinner{
   }
 }
 
-let newdinner = new Dinner('balsamic salad','consomme')
+let newdinner = new Dinner('balsamic salad','consomme','filet mignon','cheesecake')
 
 
