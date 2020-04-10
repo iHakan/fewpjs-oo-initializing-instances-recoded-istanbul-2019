@@ -16,4 +16,4 @@ class Lunch{
   }
 }
 
-let 
+let newLunch = new Lunch()
