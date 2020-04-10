@@ -5,3 +5,5 @@ class Breakfast{
     this.tea = tea;
   }
 }
+
+let newBreakfast = new Breakfast("eggs", "sugarry");
