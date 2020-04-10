@@ -9,8 +9,9 @@ class Breakfast{
 let bfast = new Breakfast("eggs", "juice");
 
 class Lunch{
-  constructor(){
-    this
-    this
+  constructor(salad,soup,drink){
+    this.salad = salad;
+    this.soup = soup;
+    this.drink = drink;
   }
 }
