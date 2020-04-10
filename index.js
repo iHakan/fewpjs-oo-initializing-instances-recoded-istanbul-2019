@@ -17,3 +17,9 @@ class Lunch{
 }
 
 let newLunch = new Lunch('side salad','broccoli cheddar soup','iced tea');
+
+class Dinner{
+  constructor(){
+    
+  }
+}
