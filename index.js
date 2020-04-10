@@ -1,9 +1,9 @@
 // Write your code here
 class Breakfast{
-  constructor(meal,tea){
+  constructor(meal,drink){
     this.meal = meal;
-    this.tea = tea;
+    this.drink = drink;
   }
 }
 
-let newBreakfast = new Breakfast("eggs", "sugarry");
+let bfast = new Breakfast("eggs", "juice");
