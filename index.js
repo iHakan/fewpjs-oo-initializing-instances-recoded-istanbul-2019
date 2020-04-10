@@ -19,7 +19,10 @@ class Lunch{
 let newLunch = new Lunch('side salad','broccoli cheddar soup','iced tea');
 
 class Dinner{
-  constructor(){
-    
+  constructor(salad,soup,entree,dessert){
+    this.salad = salad;
+    this.soup = soup;
+    this.entree = entree;
+    this._dessert = dessert;
   }
 }
